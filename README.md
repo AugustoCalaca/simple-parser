@@ -7,4 +7,4 @@ Para compilação tenha o Cmake instalado e siga:
 3. make
 4 ./main
 
-Por enquanto O arquivo de testes deve ter seu caminho alterado na funcao "analisadorLexico" no arquivo "lexicon.cpp"
+Por enquanto o arquivo de testes deve ter seu caminho alterado na funcao "analisadorLexico" no arquivo "lexicon.cpp"
