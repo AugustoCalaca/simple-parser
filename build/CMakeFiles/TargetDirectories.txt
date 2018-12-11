@@ -1,0 +1,3 @@
+/media/augusto/Augusto/Documentos/Codigos/simple-parser/build/CMakeFiles/rebuild_cache.dir
+/media/augusto/Augusto/Documentos/Codigos/simple-parser/build/CMakeFiles/edit_cache.dir
+/media/augusto/Augusto/Documentos/Codigos/simple-parser/build/CMakeFiles/main.dir
