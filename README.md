@@ -1,5 +1,5 @@
 # simple-parser
-Trabalho da Unversidade Estadual do Piauí - Uespi
+Trabalho da Universidade Estadual do Piauí - Uespi
 
 Para compilação tenha o Cmake instalado e siga:
 1. mkdir build && cd build
